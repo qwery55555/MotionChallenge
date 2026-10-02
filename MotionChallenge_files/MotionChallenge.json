@@ -1,0 +1,20 @@
+{
+  "companyName": "THub",
+  "productName": "MotionChallenge",
+  "productVersion": "1.0",
+  "dataUrl": "MotionChallenge.data.unityweb",
+  "wasmCodeUrl": "MotionChallenge.wasm.code.unityweb",
+  "wasmFrameworkUrl": "MotionChallenge.wasm.framework.unityweb",
+  "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+  "webglContextAttributes": {
+    "preserveDrawingBuffer": false
+  },
+  "splashScreenStyle": "Dark",
+  "backgroundColor": "#000000",
+  "cacheControl": {
+    "default": "must-revalidate"
+  },
+  "developmentBuild": false,
+  "multithreading": false,
+  "unityVersion": "2019.1.0f2"
+}
